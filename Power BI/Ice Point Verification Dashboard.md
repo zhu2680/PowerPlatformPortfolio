@@ -1,6 +1,10 @@
 ## Overview
  
 This dashboard shows the Ice Point Verification data entered by technicians every month. It allows business analyst to view whether the technicians re-caliberate the calibrator after a failed measurement and whether technicians request new certifications after the old ones expire.
+## Relationship Model
+![Ice Point Dashboard ](https://github.com/user-attachments/assets/6454b0ef-ce66-4403-b9c0-a07479c8f97e)
+
+
 ## Overview by Month
 This page shows the number of Ice Point Verificatoins by Month and top manufacturer models that failed the most.
 ![image](https://github.com/user-attachments/assets/04bf346d-3bb5-4869-bc9e-ddf7f215f875)
